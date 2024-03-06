@@ -1,3 +1,7 @@
+These are my notes taken during the self-paced study I did for the AZ-900 Microsoft Azure Fundamentals Exam  
+The link below brings you to the Microsoft website for the AZ-900 Exam which contains the learning paths I followed  
+[Exam AZ-900: Microsoft Azure Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-900/)
+
 # Describe cloud concepts (25–30%)
 * Microsoft Azure is a cloud computing platform.  
 * Azure services:  
