@@ -1,5 +1,5 @@
 # Describe cloud concepts (25–30%)
-Microsoft Azure is a cloud computing platform.  
+*Microsoft Azure is a cloud computing platform.  
 Azure services:  
 	- Remote storage  
 	- Database hosting  
