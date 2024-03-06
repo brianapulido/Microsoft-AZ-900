@@ -9,14 +9,14 @@
 	- Describe cloud concepts  
 	- Describe Azure architecture and services  
 	- Describe Azure management and governance  
-* Cloud computing is the delivery of computing services over the internet.  
+* **Cloud computing** is the delivery of computing services over the internet.  
 * Services include virtual machines, storage, databases, networking, AI, IoT, ML.  
 * Main services: Compute power and storage.  
-* Shared responsibility model: responsibility for infrastructure and software is shared between the cloud provider and the consumer.  
+* **Shared responsibility model**: responsibility for infrastructure and software is shared between the cloud provider and the consumer.  
 * Cloud provider has responsibility over things in their datacenter.  
-* IaaS places the most responsibility on the consumer, with the cloud provider being responsible for the basics of physical security, power, and connectivity.  
-* SaaS places most of the responsibility with the cloud provider.   
-* PaaS, being a middle ground of shared responsibility.  
+* **IaaS** places the most responsibility on the consumer, with the cloud provider being responsible for the basics of physical security, power, and connectivity.  
+* **SaaS** places most of the responsibility with the cloud provider.   
+* **PaaS**, being a middle ground of shared responsibility.  
 * You’ll always be responsible for:  
 	- The information and data stored in the cloud  
 	- Devices that are allowed to connect to your cloud (cell phones, computers, and so on)  
@@ -35,7 +35,7 @@
 * Public cloud: available for public use, purchase cloud services and use. It is built, controlled and maintained by a third-party cloud provider.  
 * Hybrid cloud: can run both private and public cloud together and decide where you want certain services to go. Flexibility.  
 * Azure Arc helps manage cloud environments  
-* Azure Vmware Solution provides seamless integration between private and public or hybrid clouds.  
+* Azure VMware Solution provides seamless integration between private and public or hybrid clouds.  
 * Consumption-based model: Cloud computing falls under operational expenditure (OpEx) which is spending money on services or products over time.   
 * Consumer pays only for resources used.  
 * Pay-as-you-go pricing model.  
