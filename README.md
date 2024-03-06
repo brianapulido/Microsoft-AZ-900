@@ -1,6 +1,6 @@
 # Microsoft-AZ-900
 This is the outline for the **Microsoft Azure Fundamentals AZ-900 Exam** as found at the link below  
-(Study guide for Exam AZ-900: Microsoft Azure Fundamentals)[https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900]
+[Study guide for Exam AZ-900: Microsoft Azure Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900)
 
 # Skills at a glance
 * Describe cloud concepts (25–30%)  
