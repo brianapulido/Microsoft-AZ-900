@@ -1,5 +1,5 @@
 # Microsoft-AZ-900
-This is the outline for the **Microsoft Azure Fundamentals AZ-900 Exam** as found at the link below  
+This is the outline for the **Microsoft Azure Fundamentals AZ-900 Exam** as found at the link below:  
 [Study guide Outline for AZ-900: Microsoft Azure Fundamentals Exam](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900)
 
 # Skills at a glance
