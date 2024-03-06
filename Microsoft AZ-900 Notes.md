@@ -1,5 +1,5 @@
-These are my notes taken during the self-paced study I did for the AZ-900 Microsoft Azure Fundamentals Exam  
-The link below brings you to the Microsoft website for the AZ-900 Exam which contains the learning paths I followed  
+These are my notes taken during the self-paced study I did for the AZ-900 Microsoft Azure Fundamentals Exam.   
+The link below brings you to the Microsoft website for the AZ-900 Exam which contains the 3 learning paths I followed to prepare.  
 [Exam AZ-900: Microsoft Azure Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-900/)
 
 # Describe cloud concepts (25–30%)
