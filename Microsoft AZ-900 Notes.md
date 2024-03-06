@@ -5,50 +5,50 @@
 	- Database hosting  
 	- Centralized account management  
 	- AI & IoT services  
-Exam Domain areas:  
+* Exam Domain areas:  
 	- Describe cloud concepts  
 	- Describe Azure architecture and services  
 	- Describe Azure management and governance  
-Cloud computing is the delivery of computing services over the internet.  
-Services include virtual machines, storage, databases, networking, AI, IoT, ML.  
-Main services: Compute power and storage.  
-Shared responsibility model: responsibility for infrastructure and software is shared between the cloud provider and the consumer.  
-Cloud provider has responsibility over things in their datacenter.  
-IaaS places the most responsibility on the consumer, with the cloud provider being responsible for the basics of physical security, power, and connectivity.  
-SaaS places most of the responsibility with the cloud provider.   
-PaaS, being a middle ground of shared responsibility.  
-You’ll always be responsible for:  
+* Cloud computing is the delivery of computing services over the internet.  
+* Services include virtual machines, storage, databases, networking, AI, IoT, ML.  
+* Main services: Compute power and storage.  
+* Shared responsibility model: responsibility for infrastructure and software is shared between the cloud provider and the consumer.  
+* Cloud provider has responsibility over things in their datacenter.  
+* IaaS places the most responsibility on the consumer, with the cloud provider being responsible for the basics of physical security, power, and connectivity.  
+* SaaS places most of the responsibility with the cloud provider.   
+* PaaS, being a middle ground of shared responsibility.  
+* You’ll always be responsible for:  
 	The information and data stored in the cloud  
 	Devices that are allowed to connect to your cloud (cell phones, computers, and so on)  
 	The accounts and identities of the people, services, and devices within your organization  
-The cloud provider is always responsible for:  
+* The cloud provider is always responsible for:  
 	The physical datacenter  
 	The physical network  
 	The physical hosts  
-Your service model will determine responsibility for things like:  
+* Your service model will determine responsibility for things like:  
 	Operating systems  
 	Network controls  
 	Applications  
 	Identity and infrastructure  
-3 main cloud models: private, public and hybrid  
-Private cloud: used by a single entity  
-Public cloud: available for public use, purchase cloud services and use. It is built, controlled and maintained by a third-party cloud provider.  
-Hybrid cloud: can run both private and public cloud together and decide where you want certain services to go. Flexibility.  
-Azure Arc helps manage cloud environments  
-Azure Vmware Solution provides seamless integration between private and public or hybrid clouds.  
-Consumption-based model: Cloud computing falls under operational expenditure (OpEx) which is spending money on services or products over time.   
-Consumer pays only for resources used.  
-Pay-as-you-go pricing model.  
-Availability: need high availability to make sure resources are available when needed. Minimize downtime. Get it with redundancy, load balancing, failover solutions, set data synchronization to meet RPO. Availability guarantee is in the Service Level Agreement (SLA).  
-Scalability: the ability to adjust resources to meet demand. Vertical and horizontal scaling. Vertical scaling is focused on increasing or decreasing the capabilities of resources (CPU, RAM). Horizontal scaling is adding or subtracting the number of resources (VMs, containers).  
-Reliability: the ability of a system to recover from failures and continue to function. Cloud has decentralized design.  
-Predictability: performance predictability is predicting the resources needed to deliver a positive experience for your customers (Autoscaling, load balancing, and high availability). Cost predictability is predicting or forecasting the cost of the cloud spend. With the cloud, you can track your resource use in real time, monitor resources to ensure that you’re using them in the most efficient way, and apply data analytics to find patterns and trends that help better plan resource deployments.  
-Cloud features support governance and compliance.  
-Management of the cloud  
-Management in the cloud  
-IaaS: flexible, max control over resources. The cloud provider is responsible for maintaining the hardware, network connectivity (to the internet), and physical security. You’re responsible for everything else: operating system installation, configuration, and maintenance; network configuration; database and storage configuration, etc.  
-PaaS: the cloud provider maintains the physical infrastructure, physical security, connection to the internet, the operating systems, middleware, development tools, and business intelligence services that make up a cloud solution. No burden of maintenance of dev infrastructure on the consumer.  
-SaaS: renting or suing a fully developed software application. Most of the responsibility is on the cloud provider.  
+* 3 main cloud models: private, public and hybrid  
+* Private cloud: used by a single entity  
+* Public cloud: available for public use, purchase cloud services and use. It is built, controlled and maintained by a third-party cloud provider.  
+* Hybrid cloud: can run both private and public cloud together and decide where you want certain services to go. Flexibility.  
+* Azure Arc helps manage cloud environments  
+* Azure Vmware Solution provides seamless integration between private and public or hybrid clouds.  
+* Consumption-based model: Cloud computing falls under operational expenditure (OpEx) which is spending money on services or products over time.   
+* Consumer pays only for resources used.  
+* Pay-as-you-go pricing model.  
+* Availability: need high availability to make sure resources are available when needed. Minimize downtime. Get it with redundancy, load balancing, failover solutions, set data synchronization to meet RPO. Availability guarantee is in the Service Level Agreement (SLA).  
+* Scalability: the ability to adjust resources to meet demand. Vertical and horizontal scaling. Vertical scaling is focused on increasing or decreasing the capabilities of resources (CPU, RAM). Horizontal scaling is adding or subtracting the number of resources (VMs, containers).  
+* Reliability: the ability of a system to recover from failures and continue to function. Cloud has decentralized design.  
+* Predictability: performance predictability is predicting the resources needed to deliver a positive experience for your customers (Autoscaling, load balancing, and high availability). Cost predictability is predicting or forecasting the cost of the cloud spend. With the cloud, you can track your resource use in real time, monitor resources to ensure that you’re using them in the most efficient way, and apply data analytics to find patterns and trends that help better plan resource deployments.  
+* Cloud features support governance and compliance.  
+* Management of the cloud  
+* Management in the cloud  
+* IaaS: flexible, max control over resources. The cloud provider is responsible for maintaining the hardware, network connectivity (to the internet), and physical security. You’re responsible for everything else: operating system installation, configuration, and maintenance; network configuration; database and storage configuration, etc.  
+* PaaS: the cloud provider maintains the physical infrastructure, physical security, connection to the internet, the operating systems, middleware, development tools, and business intelligence services that make up a cloud solution. No burden of maintenance of dev infrastructure on the consumer.  
+* SaaS: renting or suing a fully developed software application. Most of the responsibility is on the cloud provider.  
 
 # Describe Azure architecture and services (35–40%)
 Datacenters: facilities with resources arranged in racks, with dedicated power, cooling, and networking infrastructure.  
