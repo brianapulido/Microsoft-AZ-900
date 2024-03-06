@@ -1,4 +1,4 @@
-#Describe cloud concepts (25–30%)
+# Describe cloud concepts (25–30%)
 Microsoft Azure is a cloud computing platform.
 Azure services:
 	- Remote storage
@@ -49,7 +49,7 @@ IaaS: flexible, max control over resources. The cloud provider is responsible fo
 PaaS: the cloud provider maintains the physical infrastructure, physical security, connection to the internet, the operating systems, middleware, development tools, and business intelligence services that make up a cloud solution. No burden of maintenance of dev infrastructure on the consumer. 
 SaaS: renting or suing a fully developed software application. Most of the responsibility is on the cloud provider.
 
-#Describe Azure architecture and services (35–40%)
+# Describe Azure architecture and services (35–40%)
 Datacenters: facilities with resources arranged in racks, with dedicated power, cooling, and networking infrastructure.
 Datacenters are grouped into Azure Regions or Azure Availability Zones.
 A region is a geographical area on the planet that contains at least one, but potentially multiple datacenters that are nearby and networked together with a low-latency network.
@@ -236,7 +236,7 @@ Defense in depth is a layered approach that protects information and prevents it
 Defender for Cloud is a monitoring tool for security posture management and threat protection. Has security alerts. 
 For Azure machines, deployment is handled directly. For hybrid and multi-cloud environments, Microsoft Defender plans are extended to non-Azure machines with the help of Azure Arc
 		
-#Describe Azure management and governance (30–35%)
+# Describe Azure management and governance (30–35%)
 Azure operational expenses depend on:
 	Resource type
 	Consumption: pay for what you use or commit to a certain usage
