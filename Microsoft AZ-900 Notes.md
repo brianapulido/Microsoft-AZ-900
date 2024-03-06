@@ -1,14 +1,14 @@
 # Describe cloud concepts (25–30%)
-Microsoft Azure is a cloud computing platform.
-Azure services:
-	- Remote storage
-	- Database hosting
-	- Centralized account management
-	- AI & IoT services
-Exam Domain areas:
-	- Describe cloud concepts
-	- Describe Azure architecture and services
-	- Describe Azure management and governance
+Microsoft Azure is a cloud computing platform.  
+Azure services:  
+	- Remote storage  
+	- Database hosting  
+	- Centralized account management  
+	- AI & IoT services  
+Exam Domain areas:  
+	- Describe cloud concepts  
+	- Describe Azure architecture and services  
+	- Describe Azure management and governance  
 Cloud computing is the delivery of computing services over the internet.
 Services include virtual machines, storage, databases, networking, AI, IoT, ML.
 Main services: Compute power and storage. 
