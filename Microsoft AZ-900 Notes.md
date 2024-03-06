@@ -18,18 +18,18 @@
 * SaaS places most of the responsibility with the cloud provider.   
 * PaaS, being a middle ground of shared responsibility.  
 * You’ll always be responsible for:  
-	The information and data stored in the cloud  
-	Devices that are allowed to connect to your cloud (cell phones, computers, and so on)  
-	The accounts and identities of the people, services, and devices within your organization  
+	- The information and data stored in the cloud  
+	- Devices that are allowed to connect to your cloud (cell phones, computers, and so on)  
+	- The accounts and identities of the people, services, and devices within your organization  
 * The cloud provider is always responsible for:  
-	The physical datacenter  
-	The physical network  
-	The physical hosts  
+	- The physical datacenter  
+	- The physical network  
+	- The physical hosts  
 * Your service model will determine responsibility for things like:  
-	Operating systems  
-	Network controls  
-	Applications  
-	Identity and infrastructure  
+	- Operating systems  
+	- Network controls  
+	- Applications  
+	- Identity and infrastructure  
 * 3 main cloud models: private, public and hybrid  
 * Private cloud: used by a single entity  
 * Public cloud: available for public use, purchase cloud services and use. It is built, controlled and maintained by a third-party cloud provider.  
