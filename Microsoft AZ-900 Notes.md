@@ -71,7 +71,12 @@ The link below brings you to the Microsoft website for the AZ-900 Exam which con
 * Azure subscriptions  
 * Management groups  
 	- Resources are gathered into resource groups, and resource groups are gathered into subscriptions which are then gathered into management groups.  
-* Azure Virtual Machines (VMs) give you the flexibility of virtualization without having to buy and maintain the physical hardware that runs the VM. You choose OS, tools, packages, isolation or together. Can only run one OS at a time.  
+* Azure Virtual Machines (VMs) give you the flexibility of virtualization without having to buy and maintain the physical hardware that runs the VM. You choose OS, tools, packages, isolation or together. Can only run one OS at a time. parts of a VM include:
+	- virtual network
+ 	- NIC
+  	- IP address
+  	- network security group (NSG)
+  	- OS disk  
 * Availability sets are designed to ensure that VMs stagger updates and have varied power and network connectivity, preventing you from losing all your VMs with a single network or power failure.  
 * Availability sets group VMs in two ways: update domain and fault domain.  
 * VMs are good for lift and shift scenarios.  
