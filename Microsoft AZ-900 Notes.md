@@ -71,7 +71,7 @@ The link below brings you to the Microsoft website for the AZ-900 Exam which con
 * Azure subscriptions  
 * Management groups  
 	- Resources are gathered into resource groups, and resource groups are gathered into subscriptions which are then gathered into management groups.  
-* Azure Virtual Machines (VMs) give you the flexibility of virtualization without having to buy and maintain the physical hardware that runs the VM. You choose OS, tools, packages, isolation or together. Can only run one OS at a time. parts of a VM include:
+* Azure Virtual Machines (VMs) give you the flexibility of virtualization without having to buy and maintain the physical hardware that runs the VM. You choose OS, tools, packages, isolation or together. Can only run one OS at a time. IAAS. parts of a VM include:
 	- virtual network
  	- NIC
   	- IP address
